@@ -1,4 +1,5 @@
-var samer = {
+"use strict";
+const samer = {
     name: 'Sammer Buneos',
     age: 123,
 };
