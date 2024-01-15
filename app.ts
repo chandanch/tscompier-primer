@@ -8,4 +8,4 @@ const samer: User = {
 	age: 123,
 };
 
-console.log('User Details', samer);
+console.log('User Details:', samer);
